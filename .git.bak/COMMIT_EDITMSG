@@ -1,0 +1,84 @@
+Mod to dafu-wu
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    chengyi.wu <chengyi.wu@zoom.us>
+# Date:      Tue Apr 25 10:55:20 2023 +0800
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .github/workflows/build.yml
+#	modified:   CONTRIBUTING.md
+#	modified:   README.md
+#	modified:   RELEASE.md
+#	modified:   ROADMAP.md
+#	modified:   go.mod
+#	modified:   hack/update-codegen.sh
+#	modified:   pkg/apis/common/v1/openapi_generated.go
+#	modified:   pkg/controller.v1/common/job.go
+#	modified:   pkg/controller.v1/common/job_controller.go
+#	modified:   pkg/controller.v1/common/job_test.go
+#	modified:   pkg/controller.v1/common/pod.go
+#	modified:   pkg/controller.v1/common/pod_test.go
+#	modified:   pkg/controller.v1/common/scheduling.go
+#	modified:   pkg/controller.v1/common/service.go
+#	modified:   pkg/controller.v1/common/service_test.go
+#	modified:   pkg/controller.v1/common/status.go
+#	modified:   pkg/controller.v1/common/status_test.go
+#	modified:   pkg/controller.v1/common/util.go
+#	modified:   pkg/controller.v1/common/util_test.go
+#	modified:   pkg/controller.v1/control/controller_ref_manager.go
+#	modified:   pkg/controller.v1/control/controller_ref_manager_test.go
+#	modified:   pkg/controller.v1/control/pod_control.go
+#	modified:   pkg/controller.v1/control/pod_control_test.go
+#	modified:   pkg/controller.v1/control/service_control_test.go
+#	modified:   pkg/core/job.go
+#	modified:   pkg/core/pod.go
+#	modified:   pkg/core/service.go
+#	modified:   pkg/core/status.go
+#	modified:   pkg/reconciler.v1/common/gang_scheduler_framework.go
+#	modified:   pkg/reconciler.v1/common/gang_volcano.go
+#	modified:   pkg/reconciler.v1/common/interface.go
+#	modified:   pkg/reconciler.v1/common/job.go
+#	modified:   pkg/reconciler.v1/common/pod.go
+#	modified:   pkg/reconciler.v1/common/pod_test.go
+#	modified:   pkg/reconciler.v1/common/service.go
+#	modified:   pkg/reconciler.v1/common/service_test.go
+#	modified:   pkg/reconciler.v1/common/utils_test.go
+#	modified:   pkg/util/k8sutil/client.go
+#	modified:   pkg/util/k8sutil/k8sutil.go
+#	modified:   pkg/util/labels/labels.go
+#	modified:   pkg/util/labels/labels_test.go
+#	modified:   pkg/util/status.go
+#	modified:   pkg/util/status_test.go
+#	modified:   test_job/apis/test_job/v1/constants.go
+#	modified:   test_job/apis/test_job/v1/defaults.go
+#	modified:   test_job/apis/test_job/v1/openapi_generated.go
+#	modified:   test_job/apis/test_job/v1/types.go
+#	modified:   test_job/apis/test_job/v1/zz_generated.deepcopy.go
+#	modified:   test_job/client/clientset/versioned/clientset.go
+#	modified:   test_job/client/clientset/versioned/fake/clientset_generated.go
+#	modified:   test_job/client/clientset/versioned/fake/register.go
+#	modified:   test_job/client/clientset/versioned/scheme/register.go
+#	modified:   test_job/client/clientset/versioned/typed/test_job/v1/fake/fake_test_job_client.go
+#	modified:   test_job/client/clientset/versioned/typed/test_job/v1/fake/fake_testjob.go
+#	modified:   test_job/client/clientset/versioned/typed/test_job/v1/test_job_client.go
+#	modified:   test_job/client/clientset/versioned/typed/test_job/v1/testjob.go
+#	modified:   test_job/client/informers/externalversions/factory.go
+#	modified:   test_job/client/informers/externalversions/generic.go
+#	modified:   test_job/client/informers/externalversions/internalinterfaces/factory_interfaces.go
+#	modified:   test_job/client/informers/externalversions/test_job/interface.go
+#	modified:   test_job/client/informers/externalversions/test_job/v1/interface.go
+#	modified:   test_job/client/informers/externalversions/test_job/v1/testjob.go
+#	modified:   test_job/client/listers/test_job/v1/testjob.go
+#	modified:   test_job/controller.v1/test_job/test_job_controller.go
+#	modified:   test_job/reconciler.v1/test_job/test_job_reconciler.go
+#	modified:   test_job/test_util/v1/pod.go
+#	modified:   test_job/test_util/v1/service.go
+#	modified:   test_job/test_util/v1/test_job_util.go
+#	modified:   test_job/test_util/v1/util.go
+#

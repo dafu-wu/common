@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"sync"
 
-	commonutil "github.com/kubeflow/common/pkg/util"
+	commonutil "github.com/dafu-wu/common/pkg/util"
 
 	"k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/api/errors"

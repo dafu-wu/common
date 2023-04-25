@@ -1,0 +1,25 @@
+# pack-refs with: peeled fully-peeled sorted 
+4d0cf0d2a4c778106297e625de755c9319302253 refs/remotes/origin/dependabot/go_modules/golang.org/x/net-0.7.0
+83259a047fc47895dab1012728fb829523363a6d refs/remotes/origin/master
+13f1519f08365831fd57632f5e962b63cdb30a7d refs/remotes/origin/release-0.3
+7d3b7d9935c82f84e63c04283d52902ce0df8ce6 refs/remotes/origin/release-0.4
+fa99a6e8706ad46d0a286b1537044eb99430d256 refs/remotes/origin/revert_135_new
+95689adcf9841de35ccbb967309bae5d3fc09d61 refs/remotes/origin/revert_rtype_change
+09e1ac17011c3a384d4123381ac3bb0128402dbf refs/tags/v0.1.0
+88a0cd071cf162120aa3ea0c3cb9cc64d69ef3f5 refs/tags/v0.1.1
+461336009d7f8e9c97db6de123265accce7e7e36 refs/tags/v0.2.0
+78a65a334301db29ba1c5a44439c7d4df89935cb refs/tags/v0.3.0
+a63fa3dd4d6a5ac6f314100e76e167ad30aaa3dc refs/tags/v0.3.1
+fe6f909cc768b5b1530ff041a9541d244df3e1fc refs/tags/v0.3.2
+9d86006b1ee7d5eb9e9ee4023858cc3398877ad0 refs/tags/v0.3.3
+f162091f3ea6b2275635d48116dd67c1b344ef61 refs/tags/v0.3.4
+9ffa565bc60e08936f7f80cb3f491cf53f256e7f refs/tags/v0.3.5
+577143e25a56aa69132d428a9ed444c07b0c22a4 refs/tags/v0.3.6
+654b666ee7d1b7c81711c748f9cd8c1498b7c7bb refs/tags/v0.3.7
+7d3b7d9935c82f84e63c04283d52902ce0df8ce6 refs/tags/v0.4.0
+26a6cece18dde58174b493fe86cf0eb421b5e153 refs/tags/v0.4.1
+b5b18e6930c215a97c0724f5fe67d433af1bfb7f refs/tags/v0.4.2
+21f5ba8833a2e21df17601497a08396c9bae9ab2 refs/tags/v0.4.3
+08a730633c870eb205f89d58c17aee1f840a0ce5 refs/tags/v0.4.4
+21910a93c4ed8d8338d9d7414067f888801dd0bc refs/tags/v0.4.5
+9ec55d141f90faaf52fd6df271e987e5a6781945 refs/tags/v0.4.6
